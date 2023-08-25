@@ -1,6 +1,6 @@
 # Analysez les ventes d'une librairie avec Python
 
-** Note: Vous trouverez le Notebook_1 sur le travail de préparation des données en format .ipynb. Le Notebook_2 comportant sur toute l'analyse des données étant trop lourd, j'ai du l'importer en format PDF, n'hésitez pas à télécharger directement le PDF pour une meilleure lisibilité.
+** Note: Vous trouverez le Notebook_1 sur le travail de préparation des données en format .ipynb. Le Notebook_2 comporte sur toute l'analyse des données. Ce dernier étant trop lourd, j'ai dû l'importer en format PDF, n'hésitez pas à télécharger directement le PDF pour une meilleure lisibilité.
 
 Mission de ce projet :
 
